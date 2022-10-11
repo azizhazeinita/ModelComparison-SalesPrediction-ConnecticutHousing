@@ -9,4 +9,4 @@ This project aims to **predict the number of sales of Connecticut housing** usin
 **Data Source:**
 
   https://catalog.data.gov/dataset/monthly-single-family-home-sales-in-ct/resource/d7ace15f-1f39-4a71-ba0d-5ecf220746fc
-  Monthly single-family home sales in Connecticut from 2001 through June 2022, collected by **Connecticut Housing Finance Authority**.
+  * Monthly single-family home sales in Connecticut from 2001 through June 2022, collected by **Connecticut Housing Finance Authority**.
